@@ -1,3 +1,5 @@
+Парсер сайта президентских грантов, собирающий данные о победителях конкурса: название организации, её ИНН и ОГРН.
+
 ### Install
 1. git clone https://github.com/nmaslov255/presidential-grants-parser.git
 2. cd presidential-grants-parser
